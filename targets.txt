@@ -1,0 +1,10 @@
+# One domain per line. Can be added from mobile: send "add storename.com" to the Telegram bot.
+beardbrand.com
+tazachocolate.com
+hiutdenim.co.uk
+unitedbyblue.com
+consciousclothing.net
+asket.com
+afends.com
+upcirclebeauty.com
+tropic.com
