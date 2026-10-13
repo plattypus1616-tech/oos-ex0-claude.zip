@@ -1,0 +1,10 @@
+{
+  "name": "Shopify OOS & AI Outreach Auditor",
+  "description": "Audit Shopify store inventories for sold out items and generate high-converting B2B cold emails",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
+
