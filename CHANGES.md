@@ -1,3 +1,5 @@
+# Changes to Original Code (All verified: clean tsc, 3 TS tests + 10 Python tests)
+
 | Area | Change | File |
 |---|---|---|
 | Security | All store fetches routed through `safeFetch`: https only, host must be public (blocks private IPs, localhost, cloud metadata), re-validated redirects, 5 MB size limit | lib/safe-fetch.ts, app/api/audit/route.ts |
